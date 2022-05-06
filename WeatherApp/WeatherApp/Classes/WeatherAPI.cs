@@ -270,7 +270,7 @@ namespace WeatherApp.Classes
 					Headers =
 					{
 						{ "X-RapidAPI-Host", "community-open-weather-map.p.rapidapi.com" },
-						{ "X-RapidAPI-Key", "77bcf8a05cmshb42deaf86c1f1a4p10ad49jsnd1b36d62ea8b" },
+						{ "X-RapidAPI-Key", "Your weather app api key here" },
 					},
 				};
 				client.Timeout = TimeSpan.FromSeconds(5);
